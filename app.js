@@ -1,2 +1,2 @@
-var one={};
+var one=[];
 
